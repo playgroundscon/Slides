@@ -78,6 +78,8 @@ Style rules aren't enforced by the compiler. They aren't mandated by any specifi
 
 I'll be talking about the different stages of open source projects, how handling PRs and support change with scale and how to keep innovating with a bigger user base. With that in mind, I'll go into detail on how developers can solve those problems, in particular automating workflows, staying in closer contact with contributors and improving your product and documentation.
 
+- [Blog post](https://krausefx.com/blog/scaling-open-source-communities)
+
 ---
 
 ### Greg Heo, [@gregheo](https://www.twitter.com/gregheo)
