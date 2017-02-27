@@ -29,6 +29,13 @@ Different programming commununities have different approaches to how they handle
 ##### How to Clang Your Dragon 🐉: Building Compilers with LLVM
 Compilers are treated with a fearful reverence that betrays how fascinating and approachable they really are. In this talk, we'll discuss LLVM and how it works by building a real compiler for a toy language called Kaleidoscope. We'll implement many of the fundamental building blocks of compilers and see how certain Swift features make it a great compiler language.
 
+- [Slides](https://speakerdeck.com/harlanhaskins/how-to-clang-your-dragon-building-a-compiler-with-llvm)
+- [Demo Source Code](https://github.com/trill-lang/Kaleidoscope)
+- In Depth Blog Posts
+  - [Part 1: Introduction and the Lexer](https://harlanhaskins.com/2017/01/08/building-a-compiler-with-swift-in-llvm-part-1-introduction-and-the-lexer.html)
+  - [Part 2: AST and the Parser](https://harlanhaskins.com/2017/01/09/building-a-compiler-with-swift-in-llvm-part-2-ast-and-the-parser.html)
+  - [Part 3: Code Generation to LLVM IR](https://harlanhaskins.com/2017/01/11/building-a-compiler-with-swift-in-llvm-part-3-code-generation-to-llvm-ir.html)
+
 ---
 
 ### Chris Bailey, [@chris__bailey](https://www.twitter.com/chris__bailey)
@@ -71,18 +78,14 @@ Style rules aren't enforced by the compiler. They aren't mandated by any specifi
 
 I'll be talking about the different stages of open source projects, how handling PRs and support change with scale and how to keep innovating with a bigger user base. With that in mind, I'll go into detail on how developers can solve those problems, in particular automating workflows, staying in closer contact with contributors and improving your product and documentation.
 
---- 
+---
 
 ### Greg Heo, [@gregheo](https://www.twitter.com/gregheo)
 ##### Five Unbelievable Secrets Of Reactive Programming The Experts Don’t Want You To Know!
 
-Object-oriented, functional, procedural…do we really need another programming paradigm to take up space in our brains? In this talk, you’ll learn the basic concepts of reactive programming and why they’re useful. As a motivating example, you’ll see a traditional Cocoa app transformed into its reactive counterpart.
-
-More importantly you’ll come away with some new patterns and paradigms to expand your programming toolbox, whether you make a complete conversion to RxSwift or borrow some ideas to use in your existing object-oriented project.
+Object-oriented, functional, procedural…do we really need another programming paradigm to take up space in our brains? In this talk, you’ll learn the basic concepts of reactive programming and why they’re useful. As a motivating example, you’ll see a traditional Cocoa app transformed into its reactive counterpart.  <P>More importantly you’ll come away with some new patterns and paradigms to expand your programming toolbox, whether you make a complete conversion to RxSwift or borrow some ideas to use in your existing object-oriented project.
 
 - [Blog post](https://gregheo.com/blog/reactive-programming-basics/)
-- [Slides](https://speakerdeck.com/gregheo/five-unbelievable-secrets-of-reactive-programming-the-experts-dont-want-you-to-know)
-- [Example project](https://github.com/gregheo/NoughtsAndCrosses)
 
 ---
 
@@ -131,7 +134,7 @@ Big Bucket's game Space Age can be described as a mashup of an Real-time strateg
 ### Rachel Bobbins, [@bobbins](https://www.twitter.com/bobbins)
 ##### Refactoring Strategies
 
-Refactoring existing code can be hard. You can recognize your existing pain points, and might have an idea for how to solve them. But, that journey from point A to point B can be fraught with compilation errors. These compilation errors can stop you from making incremental progress. 
+Refactoring existing code can be hard. You can recognize your existing pain points, and might have an idea for how to solve them. But, that journey from point A to point B can be fraught with compilation errors. These compilation errors can stop you from making incremental progress.
 
 <P>In this talk, I'll talk about some of the strategies you can use for incrementally refactoring your Swift code, by leaning heavily on the compiler. You'll be able to keep your app functioning and your tests passing, even while gutting your app from the inside out!
 
@@ -168,3 +171,4 @@ Unit testing is a driving force in the way many iOS engineers architect codebase
 ##### Once Upon a Rewrite
 
 At Pinterest, we recently completed a rewrite our iOS app for a faster, cleaner experience. Speed is something that has always been very important to us. I’ll share some techniques we used to achieve large gains in app startup time and scroll performance. Another of the goals of our re-architecture was to move to a completely immutable model layer. I'll discuss the motivation behind our migration, and explore how our new system handles updating models, loading new information from the API and other data integrity concerns.
+
