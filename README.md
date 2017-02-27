@@ -52,6 +52,8 @@ In this talk, we’ll look at mutation in Swift. Mutation gets a bad rap, but to
 
 _<P>Note: This was a live demo, there are no slides for this talk_
 
+- [Source code](https://gist.github.com/chriseidhof/5e07c5bbcbe79602ee9dcaff5cae8777)
+
 ---
 
 ### Dennis Pilarinos, [@dennispilarinos](https://www.twitter.com/dennispilarinos)
