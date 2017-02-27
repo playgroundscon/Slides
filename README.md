@@ -147,9 +147,11 @@ Refactoring existing code can be hard. You can recognize your existing pain poin
 ---
 
 ### Samuel Giddins, [@segiddins](https://www.twitter.com/segiddins)
-##### Understanding why strings are evil
+##### Understanding Why Strings Are Evil
 
 Strings are usually the first or second data type we learn to work with as programmers. Despite appearing deceptively simple, misunderstanding and misuse of strings abound in the code we write every day. From performance problems to unicode correctness issues to complex APIs and the challenges of displaying strings on screen (and storing them on disk), we'll look at ways to wrangle our favorite data type. Swift forced many of us to question how strings really worked for the first time, so we'll use Swift's String interface to understand what makes strings so slow and difficult, and explore some ways to make working with them fast and easy.
+
+- [Slides](https://speakerdeck.com/segiddins/why-strings-are-evil)
 
 ---
 
