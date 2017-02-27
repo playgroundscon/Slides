@@ -88,6 +88,8 @@ I'll be talking about the different stages of open source projects, how handling
 Object-oriented, functional, procedural…do we really need another programming paradigm to take up space in our brains? In this talk, you’ll learn the basic concepts of reactive programming and why they’re useful. As a motivating example, you’ll see a traditional Cocoa app transformed into its reactive counterpart.  <P>More importantly you’ll come away with some new patterns and paradigms to expand your programming toolbox, whether you make a complete conversion to RxSwift or borrow some ideas to use in your existing object-oriented project.
 
 - [Blog post](https://gregheo.com/blog/reactive-programming-basics/)
+- [Slides](https://speakerdeck.com/gregheo/five-unbelievable-secrets-of-reactive-programming-the-experts-dont-want-you-to-know)
+- [Example project](https://github.com/gregheo/NoughtsAndCrosses)
 
 ---
 
