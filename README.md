@@ -123,7 +123,9 @@ are doing when trying to fix issues.
 ##### Cooperative Path Finding
 Big Bucket's game Space Age can be described as a mashup of an Real-time strategy and an adventure game. Space Age has units and missions, but also inventory and dialogue. When a unit needs to navigate between map locations, it uses the A* pathfinding algorithm. As well as A*, Space Age employs some novel techniques to ensure that units don't bump each other while also ensuring that their navigation appear natural and ad-hoc, not coordinated or precognitive. I will be discussing some of these techniques.
 
+- [Slides](https://speakerdeck.com/mattcomi/cooperative-path-finding)
 - [Source code](http://bigbucketgames.com/playgroundscon)
+- [Video](http://bigbucketgames.com/playgroundsconvideo)
 
 ---
 
