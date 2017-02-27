@@ -133,6 +133,8 @@ Big Bucket's game Space Age can be described as a mashup of an Real-time strateg
 
 <P>This talk will look at how Swift implements generics, protocols, modules, reference counting, closures, copy-on-write and inheritance and look at how each of these features can have performance that varies by as much as a factor of 10, depending on how you use them. I will look at how to read profiling information in Instruments to identify which of these features is the source of performance problems and how to restructure code to solve these problems. I'll talk about which Swift features can be used at different scales from 10,000 iterations per second through to 1 billion iterations per second.
 
+- [Slides](https://speakerdeck.com/mattgallagher/playgrounds-2017-high-performance-swift)
+
 ---
 
 ### Rachel Bobbins, [@bobbins](https://www.twitter.com/bobbins)
