@@ -41,7 +41,7 @@ Compilers are treated with a fearful reverence that betrays how fascinating and 
 ### Chris Bailey, [@chris__bailey](https://www.twitter.com/chris__bailey)
 ##### Swift On The Server
 
-
+- [Slides](https://www.slideshare.net/cnbailey/playgrounds-mobile-swift-bff)
 
 ---
 
@@ -163,6 +163,8 @@ Strings are usually the first or second data type we learn to work with as progr
 ##### Everything You Ever Wanted To Know About Sequence and Collection
 
 Sequence and Collection are two of the deepest and most interesting and deepest protocols in the Swift standard library.  We’ll take a deep dive into these protocols and their related protocols and types, like Index, Sliceable, and RangeReplaceableCollection, and how they each interplay.. We'll build a `LinkedList` implementation to explore Sequences and how Iterators interact with them. We'll talk about Collection, and build a few extensions using the abstractions that Collection gives us. By the end, you'll know everything you ever wanted to know about Sequence and Collection.
+
+- [Slides](https://speakerdeck.com/playgroundscon/everything-you-ever-wanted-to-know-aboutsequence-and-collection)
 
 ---
 
