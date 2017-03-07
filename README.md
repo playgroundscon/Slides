@@ -111,13 +111,14 @@ Everybody knows of Swift Playgrounds, Apple's interactive programming environmen
 
 ### Marin Usalj, [@_supermarin](https://www.twitter.com/_supermarin)
 ##### Code signing demystified: certificates, private keys, profiles. 
-<P>Every iOS developer has hit the wall of trying to publish an iOS app.
+Every iOS developer has hit the wall of trying to publish an iOS app. 
 Code signing is one of the most hated topics in the field: it's obscure,
-complicated and not well understood.  <P>This talk is intended to clarify all the components in the code signing process,
-and should save you some time in the future.  <P>The talk will go over private keys, .p12 export, certificates, certificate requests,
-provisioning profiles, teams, and finally provide a couple words about
-automatic provisioning. Most importantly, it'll cover common mistakes people
-are doing when trying to fix issues.
+complicated and not well understood.
+
+The talk clarifies all the components in the code signing process, and it should save you some time in the future.
+The talk goes over private keys, .p12 export, certificates, certificate requests, provisioning profiles, teams, and shows how it all fits together.
+
+- [Slides](https://speakerdeck.com/supermarin/osx)
 
 ---
 
