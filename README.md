@@ -107,6 +107,9 @@ Object-oriented, functional, procedural…do we really need another programming 
 
 Everybody knows of Swift Playgrounds, Apple's interactive programming environment for learning Swift, now on the iPad. But did you know Apple had an interactive programming environment 30 years ago, also called Playgrounds?   <P>This talk explores Apple's Playgrounds, an interactive graphical programming environment, designed by Alan Kay and his team, for young children to learn programming and complex systems. We'll look at the design principles that went into this 1980s environment and see what it was capable of.   <P>Playgrounds of the 1980s were capable of realtime, interactive, live-programmed objects (for example, in an underwater ecosystem simulation). We'll look at how things have changed from the Playgrounds of yesteryear to the Swift Playgrounds of today.
 
+- [Blog post](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
+- [Slides](https://github.com/jbrennan/presentations/tree/master/February_23_2017_Playgrounds)
+
 ---
 
 ### Marin Usalj, [@_supermarin](https://www.twitter.com/_supermarin)
