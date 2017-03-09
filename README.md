@@ -150,6 +150,7 @@ Big Bucket's game Space Age can be described as a mashup of an Real-time strateg
 Refactoring existing code can be hard. You can recognize your existing pain points, and might have an idea for how to solve them. But, that journey from point A to point B can be fraught with compilation errors. These compilation errors can stop you from making incremental progress.
 
 <P>In this talk, I'll talk about some of the strategies you can use for incrementally refactoring your Swift code, by leaning heavily on the compiler. You'll be able to keep your app functioning and your tests passing, even while gutting your app from the inside out!
+- [Slides](https://speakerdeck.com/rbobbins/your-refactoring-toolbox)
 
 ---
 
