@@ -66,6 +66,8 @@ This talk will dive into what's involved in designing, building, scaling and ope
 
 After this talk, the audience will be equipped with of a set of best practices to improve their Swift development, and some fun stories of building and operating a high scale, highly available distributed build system.
 
+- [Slides](https://speakerdeck.com/dennispilarinos/putting-together-the-best-continuous-integration-and-deployment-workflow-for-ios-apps)
+
 ---
 
 ### Erica Sadun, [@ericasadun](https://www.twitter.com/ericasadun)
