@@ -7,6 +7,8 @@
 ##### Taming Touches and Taps
 As we enter a new decade of iOS, apps are transitioning from looking pretty to being highly interactive. Building apps where everything feels interactive and interruptible is crucial to making things feel magical, but pulling it off can be rather difficult. We'll go into a deep dive on some advanced techniques on how to build apps that use lots of motion, animations, and gestures to make them stand out as first class citizens on iOS.
 
+[Slides](https://speakerdeck.com/b3ll/taming-touches-and-taps)
+
 ---
 
 ### Alan Zeino, [@alanzeino](https://www.twitter.com/alanzeino)
