@@ -85,13 +85,16 @@ Style rules aren't enforced by the compiler. They aren't mandated by any specifi
 I'll be talking about the different stages of open source projects, how handling PRs and support change with scale and how to keep innovating with a bigger user base. With that in mind, I'll go into detail on how developers can solve those problems, in particular automating workflows, staying in closer contact with contributors and improving your product and documentation.
 
 - [Blog post](https://krausefx.com/blog/scaling-open-source-communities)
+- [Video](https://www.skilled.io/u/playgroundscon/scaling-open-source-communities)
 
 ---
 
 ### Greg Heo, [@gregheo](https://www.twitter.com/gregheo)
 ##### Five Unbelievable Secrets Of Reactive Programming The Experts Don’t Want You To Know!
 
-Object-oriented, functional, procedural…do we really need another programming paradigm to take up space in our brains? In this talk, you’ll learn the basic concepts of reactive programming and why they’re useful. As a motivating example, you’ll see a traditional Cocoa app transformed into its reactive counterpart.  <P>More importantly you’ll come away with some new patterns and paradigms to expand your programming toolbox, whether you make a complete conversion to RxSwift or borrow some ideas to use in your existing object-oriented project.
+Object-oriented, functional, procedural…do we really need another programming paradigm to take up space in our brains? In this talk, you’ll learn the basic concepts of reactive programming and why they’re useful. As a motivating example, you’ll see a traditional Cocoa app transformed into its reactive counterpart.
+
+<P>More importantly you’ll come away with some new patterns and paradigms to expand your programming toolbox, whether you make a complete conversion to RxSwift or borrow some ideas to use in your existing object-oriented project.
 
 - [Blog post](https://gregheo.com/blog/reactive-programming-basics/)
 - [Slides](https://speakerdeck.com/gregheo/five-unbelievable-secrets-of-reactive-programming-the-experts-dont-want-you-to-know)
@@ -109,7 +112,11 @@ Object-oriented, functional, procedural…do we really need another programming 
 ### Jason Brennan, [@jasonbrennan](https://www.twitter.com/jasonbrennan)
 ##### Playgrounds
 
-Everybody knows of Swift Playgrounds, Apple's interactive programming environment for learning Swift, now on the iPad. But did you know Apple had an interactive programming environment 30 years ago, also called Playgrounds?   <P>This talk explores Apple's Playgrounds, an interactive graphical programming environment, designed by Alan Kay and his team, for young children to learn programming and complex systems. We'll look at the design principles that went into this 1980s environment and see what it was capable of.   <P>Playgrounds of the 1980s were capable of realtime, interactive, live-programmed objects (for example, in an underwater ecosystem simulation). We'll look at how things have changed from the Playgrounds of yesteryear to the Swift Playgrounds of today.
+Everybody knows of Swift Playgrounds, Apple's interactive programming environment for learning Swift, now on the iPad. But did you know Apple had an interactive programming environment 30 years ago, also called Playgrounds? 
+
+<P>This talk explores Apple's Playgrounds, an interactive graphical programming environment, designed by Alan Kay and his team, for young children to learn programming and complex systems. We'll look at the design principles that went into this 1980s environment and see what it was capable of. 
+
+<P>Playgrounds of the 1980s were capable of realtime, interactive, live-programmed objects (for example, in an underwater ecosystem simulation). We'll look at how things have changed from the Playgrounds of yesteryear to the Swift Playgrounds of today.
 
 - [Blog post](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 - [Slides](https://github.com/jbrennan/presentations/tree/master/February_23_2017_Playgrounds)
@@ -117,7 +124,8 @@ Everybody knows of Swift Playgrounds, Apple's interactive programming environmen
 ---
 
 ### Marin Usalj, [@_supermarin](https://www.twitter.com/_supermarin)
-##### Code signing demystified: certificates, private keys, profiles. 
+##### Code signing demystified: certificates, private keys, profiles.
+
 Every iOS developer has hit the wall of trying to publish an iOS app. 
 Code signing is one of the most hated topics in the field: it's obscure,
 complicated and not well understood.
