@@ -77,6 +77,8 @@ After this talk, the audience will be equipped with of a set of best practices t
 
 Style rules aren't enforced by the compiler. They aren't mandated by any specification. They're not official. Style rules are personal or organisational opinion on specific styling choices that make your code Swiftier. Here's why you should adopt style guidelines to support better and more maintainable code.
 
+- [Slides](https://speakerdeck.com/playgroundscon/opinionated-code)
+
 ---
 
 ### Felix Krause, [@krausefx](https://www.twitter.com/krausefx)
@@ -164,7 +166,9 @@ By default, Swift aims to be a simple-to-use language that protects the programm
 Refactoring existing code can be hard. You can recognize your existing pain points, and might have an idea for how to solve them. But, that journey from point A to point B can be fraught with compilation errors. These compilation errors can stop you from making incremental progress.
 
 <P>In this talk, I'll talk about some of the strategies you can use for incrementally refactoring your Swift code, by leaning heavily on the compiler. You'll be able to keep your app functioning and your tests passing, even while gutting your app from the inside out!
+
 - [Slides](https://speakerdeck.com/rbobbins/your-refactoring-toolbox)
+- [Video](https://www.skilled.io/u/playgroundscon/your-refactoring-toolbox)
 
 ---
 
@@ -183,6 +187,8 @@ Strings are usually the first or second data type we learn to work with as progr
 Sequence and Collection are two of the deepest and most interesting and deepest protocols in the Swift standard library.  We’ll take a deep dive into these protocols and their related protocols and types, like Index, Sliceable, and RangeReplaceableCollection, and how they each interplay.. We'll build a `LinkedList` implementation to explore Sequences and how Iterators interact with them. We'll talk about Collection, and build a few extensions using the abstractions that Collection gives us. By the end, you'll know everything you ever wanted to know about Sequence and Collection.
 
 - [Slides](https://speakerdeck.com/playgroundscon/everything-you-ever-wanted-to-know-aboutsequence-and-collection)
+- [Video](https://www.skilled.io/u/playgroundscon/sequence-and-collection-swift)
+
 
 ---
 
